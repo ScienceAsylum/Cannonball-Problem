@@ -1,6 +1,6 @@
 # Cannonball-Problem
 
-This is the code I used to pack and stack spheres. They appeared in the following video:
+This was an exploration of how well sphere stack on a flat surface and pack inside boxes (and other spheres). It was used in the following video:
 
 <p align="center">
     <a href="https://youtu.be/Ga0TKrylnXY">
