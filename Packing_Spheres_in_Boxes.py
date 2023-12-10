@@ -8,8 +8,8 @@ import numpy as np
 #---------------------- Scene Information -----------------------
 scene = canvas()
 scene.range = 40
-scene.height = 900
-scene.width = 1900
+scene.height = 1080
+scene.width = 1920
 scene.up = vector(0,0,1) #Z-Up for Life!
 scene.forward = vector(-1,-1,-1)
 scene.fov = pi/6
